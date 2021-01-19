@@ -122,3 +122,16 @@ main .main-buttons button:hover {
     color: #222;
     background-color: #f8f8f8;
 }
+main .main-en{
+    margin-top: 20px;
+}
+
+main .main-en a{
+    color: #1a0dab;
+    text-decoration: none;
+    padding-left: 3px;
+}
+
+main .main-en a:hover{
+    text-decoration: underline;
+}
